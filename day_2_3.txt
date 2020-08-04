@@ -1,0 +1,41 @@
+A :- 4r, 3b
+
+P(r in A) = 4/7
+
+P(b in A) = 3/7
+
+B :- 5r, 4b
+
+P(r in B) = 5/9
+
+P(b in B) = 4/9
+
+C :- 4r, 4b
+
+P(r in C) = 4/8 = 1/2
+
+P(b in c) = 4/8 = 1/2
+
+Requirement: 2r, 1b (total 3 balls drawn, one from each urn A, B, C)
+
+Possibilities : X:(rA, rB, bC), Y:(rA, bB, rC), Z:(bA, rB, rC)
+
+Hence,
+
+P(possibilities)
+
+=P(X+Y+Z)
+
+Now,
+
+P(X) = 4/7 * 5/9 * 1/2 = 20/126
+
+P(Y) = 4/7 * 4/9 * 1/2 = 16/126
+
+P(Z) = 3/7 * 5/9 * 1/2 = 15/126
+
+Thus,
+
+P(X+Y+Z) = ( 20 + 16 + 15 ) /126 = 51/126 = 17/42
+
+Answer is 17/42.
