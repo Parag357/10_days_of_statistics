@@ -1,4 +1,6 @@
-# <a href="https://www.hackerrank.com/psychoprg357/"><i class='fab fa-hackerrank' style='font-size:32px'></i></a> 10 Days of Statistics
+# 10 Days of Statistics
+
+<a href="https://www.hackerrank.com/psychoprg357/"><i class='fab fa-hackerrank' style='font-size:32px'></i></a>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
