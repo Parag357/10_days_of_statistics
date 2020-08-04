@@ -1,6 +1,6 @@
 # 10 Days of Statistics
 
-<a href="https://www.hackerrank.com/psychoprg357/"><img src = "https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt= "my profile"/></a>
+<a href="https://www.hackerrank.com/psychoprg357/"><img src = "https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt= "my profile" width= "5%" height ="auto" /></a>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
