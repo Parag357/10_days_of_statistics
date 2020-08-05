@@ -1,0 +1,17 @@
+Marbles in bag: 3 red(R), 4 blue(B)
+
+Total marbles = 3+4 = 7
+
+Given: 2 marbles are drawn without replacement and the first one is red.
+
+Now,
+
+remaining marbles = 6
+
+remaining blue marbles = 4 (since no blue marble drawn earlier)
+
+Hence,
+
+P(2nd marble being blue): 4/6 = 2/3
+
+Answer is 2/3.
