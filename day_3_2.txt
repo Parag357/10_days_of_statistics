@@ -1,0 +1,27 @@
+We have to draw 2 cards from a pack of 52 cards without replacement.
+
+Let E be the event that both the cards are of same suit.
+
+For the first card, any card of any suite can be chosen.
+
+Thus,
+
+P(drawing 1st card): 1 ---> a
+
+Let the first card drawn belong to suite X.
+
+Remaining cards in suite X: 12 
+
+(as every suite contains 13 cards and 1 is already drawn)
+
+Remaining cards in deck: 51
+
+Therefore,
+
+P(drawing 2nd card from same suite X): 12/51 ---> b
+
+Now,
+
+P(E)= a*b= 1*12/51 = 12/51
+
+Answer is 12/51.
