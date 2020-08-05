@@ -1,0 +1,23 @@
+Given: Family has 2 children
+
+let b represent boy and g represent girl respectively.
+
+possibilities: bb,bg,gb,gg (4)
+
+but,
+
+Given: one child is a boy (b)
+
+hence,
+
+remaining possibilities: bb,bg,gb (3) 
+
+(gg is discarded as both can't be girls)
+
+thus,
+
+let E represent the event that both the children are boys given one child is a boy.
+
+P(E): 1/3
+
+Answer is 1/3.
