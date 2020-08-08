@@ -1,0 +1,9 @@
+n=100
+m=500
+s=80
+p=0.95
+z=1.96
+temp=z*s/(n**0.5)
+a=m-temp
+b=m+temp
+print('%.2f\n%.2f'%(a,b))
